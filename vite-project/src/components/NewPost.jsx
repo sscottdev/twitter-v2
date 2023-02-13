@@ -1,5 +1,6 @@
 import { useState } from "react";
 import classes from "./NewPost.module.css";
+import {TextField} from "@mui/material";
 
 function NewPost(props) {
     const [enteredBody, setEnteredBody] = useState("");
