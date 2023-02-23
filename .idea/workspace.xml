@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea24a299-264b-4e52-8232-8f0bfec4e5e5" name="Changes" comment="">
+    <list default="true" id="ea24a299-264b-4e52-8232-8f0bfec4e5e5" name="Changes" comment="mui adding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite-project/src/components/MainHeader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/components/MainHeader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/components/MainHeader.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/components/MainHeader.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite-project/src/components/NewPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/components/NewPost.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/components/NewPost.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/components/NewPost.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/components/PostsList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/components/PostsList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,12 +37,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/sean/PhpstormProjects/react-learning/vite-project/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/snap/phpstorm/314/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -61,8 +66,20 @@
       <workItem from="1676074327043" duration="3137000" />
       <workItem from="1676081325111" duration="6727000" />
       <workItem from="1676294749492" duration="36000" />
-      <workItem from="1676294811502" duration="5138000" />
+      <workItem from="1676294811502" duration="6383000" />
+      <workItem from="1676986706233" duration="47000" />
+      <workItem from="1676986774520" duration="2096000" />
+      <workItem from="1677008972052" duration="22000" />
+      <workItem from="1677016711881" duration="6007000" />
     </task>
+    <task id="LOCAL-00001" summary="mui adding">
+      <created>1676322905012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676322905012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +87,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsx" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mui adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="mui adding" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

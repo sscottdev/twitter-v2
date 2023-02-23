@@ -18,7 +18,7 @@ function MainHeader({ onCreatePost }) {
       </h1>
       <p>
           <Fab color="primary" className={classes.button} onClick={onCreatePost} aria-label="add">
-              <AddIcon />
+            <AddIcon />
           </Fab>
       </p>
     </header>

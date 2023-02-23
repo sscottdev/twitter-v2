@@ -1,13 +1,14 @@
 import { useState, useEffect } from "react";
-
 import NewPost from "./NewPost";
 import Post from "./Post";
 import Modal from "./Modal";
 import classes from "./PostList.module.css";
+/*import {MongoClient} from "mongodb";
+
+const url = "mongodb+srv://admin:adminpassword@twitter-v2.3xspctb.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(url);*/
 
 function PostsList(props) {
-
-
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {

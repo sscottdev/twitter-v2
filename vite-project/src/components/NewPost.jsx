@@ -1,6 +1,13 @@
 import { useState } from "react";
 import classes from "./NewPost.module.css";
 import {TextField} from "@mui/material";
+import React from 'react';
+import ReactDOM from 'react-dom';
+/*
+const { MongoClient } = require("mongodb");
+const url = "mongodb+srv://admin:adminpassword@twitter-v2.3xspctb.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(url);
+*/
 
 function NewPost(props) {
     const [enteredBody, setEnteredBody] = useState("");
